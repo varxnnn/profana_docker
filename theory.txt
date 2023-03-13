@@ -25,7 +25,4 @@ $Env:COMPOSE_CONVERT_WINDOWS_PATHS=1
 This environment variable is used by Docker Compose to automatically convert file paths from Windows-style to Unix-style 
 when running Docker containers on Windows. 
 
-
-
-https://mahesh-mahadevan.medium.com/monitoring-docker-containers-on-windows-using-prometheus-grafana-c32bbb7ed04
-check cadvisor logs bestie
+Yet to work on promql
